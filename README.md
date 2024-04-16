@@ -1,6 +1,9 @@
 # Multiclass-Emotion-Classification-in-News-Articles
 
-This repository contains code and resources for performing multiclass emotion classification in news articles. The task involves classifying news articles into different emotion categories using various techniques, including aggregation via CLS token and mean pooling. Additionally, the repository explores decoder-only and encoder-decoder models for classification and provides pretraining methods for domain-specific adaptation.
+# Link to the notebook
+https://colab.research.google.com/drive/19os6NfTnVmnKCL4IX9NtjIt6eF5pnyCr?usp=sharing
+
+This notebook contains code and resources for performing multiclass emotion classification in news articles. The task involves classifying news articles into different emotion categories using various techniques, including aggregation via CLS token and mean pooling. Additionally, the repository encoder-decoder model for classification and provides pretraining methods for domain-specific adaptation.
 
 ## Dataset
 The dataset used for this task is sourced from [Kaggle](https://www.kaggle.com/competitions/sentiment-analysis-in-russian/data?select=test.json). It consists of news articles in Russian language along with their corresponding emotion labels.
